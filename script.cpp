@@ -1,6 +1,5 @@
 #include <iostream>
 
-int main(){
-	std::cout << "Hello World \n";
-	return 0;
+int square(int n) { 
+   return n*n; 
 }
